@@ -44,7 +44,7 @@
                 <configuration>
                     <archive>
                     <manifest>
-                    <mainClass>edu.cluster.hadoop</mainClass>
+                    <mainClass>edu.cluster.hadoop.HadoopFileStatus</mainClass>
                     </manifest>
                     </archive>
                     <finalName>hadoop-app</finalName>
