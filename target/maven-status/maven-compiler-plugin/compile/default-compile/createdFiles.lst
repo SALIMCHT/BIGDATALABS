@@ -1,0 +1,4 @@
+edu/cluster/hadoop/HadoopFileStatus.class
+edu/cluster/hadoop/WriteHDFS.class
+edu/cluster/hadoop/Main.class
+edu/cluster/hadoop/ReadHDFS.class
